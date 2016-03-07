@@ -18,6 +18,11 @@ img {
 	max-width: 200px;
 }
 
+a > img {
+	height: 50px;
+	padding: 5px;
+}
+
 .navbar {
 	font-weight: 900;
 	border-radius: 0;
