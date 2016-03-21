@@ -54,6 +54,14 @@ article > p {
 	text-align: center;
 }
 
+.doctor {
+	margin-top: 20px;
+}
+
+.doctor > p {
+	padding-left: 20px;
+}
+
 footer {
 	padding-top: 10px;
 	background: black;
